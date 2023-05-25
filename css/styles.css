@@ -1,0 +1,27 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+} */
+
+/*
+#footer
+{
+    background-color: lightgray;
+} */
+
+#footer{
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#27374D;
+    color: #9DB2BF;
+}
+
+.dice{
+    width: 100px;
+    height: 100px;
+}
