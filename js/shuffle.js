@@ -51,3 +51,7 @@ function diceRoll() {
 document.getElementById("roll").onclick = function() {
     diceRoll();
 };
+
+window.onload=function(){
+   document.getElementById("roll").click();
+ };
